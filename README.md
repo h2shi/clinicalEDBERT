@@ -32,3 +32,14 @@ The results will be in the output_dir folder and it consists of
 * 'auroc_clinicalbert.png': ROC Curve
 * 'loss_history.png': Training Loss Curve
 * 'eval_results.txt': RP80, accuracy, loss
+
+## Reference
+[ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission](https://arxiv.org/abs/1904.05342)
+```
+@article{clinicalbert,
+author = {Kexin Huang and Jaan Altosaar and Rajesh Ranganath},
+title = {ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission},
+year = {2019},
+journal = {arXiv:1904.05342},
+}
+```
