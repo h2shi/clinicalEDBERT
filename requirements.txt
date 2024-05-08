@@ -1,0 +1,14 @@
+#essentials
+pandas
+numpy
+matplotlib
+seaborn
+#deep learning
+scikit-learn
+pytorch_pretrained_bert
+funcsigs
+scipy==1.11.4
+#others
+tqdm
+spacy
+requests
